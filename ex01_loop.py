@@ -2,7 +2,7 @@
 ## Faça um algoritmo que peça ao usuário digitar um número natural maior que 1 e mostre os números de 1
 ## até o número que ele digitou.
 
-#Pedir ao usuário pra digitar numero
+#Pedir ao usuário pra digitar número lindo e muito simpático!!
 
 numero = input("Digite um número:")
 
